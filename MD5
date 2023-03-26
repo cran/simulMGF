@@ -1,0 +1,12 @@
+e29f41b3635d6f4f2d15a92c41daac70 *DESCRIPTION
+e57feaa59b02e2e9026cd9fd6b9d4bb0 *LICENSE
+0a200adc8499c067712ced39581a2723 *NAMESPACE
+62da970f2e38ee1eda76175b38f2cb66 *R/script_simulMGF.R
+0ea0b536a649e8262825283c2fda8451 *README.md
+b4a8d47ee8674fa56c787d88c51a9dee *man/simGeno.Rd
+facd1d24d934399673fa32705c9d2448 *man/simPheno.Rd
+8fd6a7ed10dc031b83e3f6a8028a7bd0 *man/simulFS.Rd
+8ece08e404c0fc13ae74eed9ee205aa4 *man/simulHS.Rd
+5bb5901f554d28b2573363803d7c14c5 *man/simulN.Rd
+d501b9a52cbfd98a020057eafdcfe245 *man/simulU.Rd
+332173f20d20942c02019350ea4dcadc *tests/spelling.R
